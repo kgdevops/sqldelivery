@@ -12,3 +12,4 @@ if (linux > 0):
 if (windows > 0):
 	print ("This is Windows!")
 
+print ("Huzzah!")
